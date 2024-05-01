@@ -766,7 +766,7 @@ Counter
 --------------------------------------------------------------*/
 .iq-list li { padding-left: 10px; margin-bottom: 10px; }
 .iq-list li:last-child { margin-bottom: 0; }
-.iq-list-with-icon, .iq-list-with-img, .iq-list ul { padding: 0; margin: 0; }
+.iq-list-with-icon, .iq-list-with-img, .iq-list ul { padding: 0; margin: 0; line-height: 2.26;}
 .iq-list-with-icon li, .iq-list-with-img li { padding-left: 0; list-style: none; display: flex; }
 .iq-list-with-icon li i, .iq-list-with-img li img { margin-right: 10px; color: #007BFC; width: auto; height: 100%; margin-top: 10px; }
 .iq-list.iq-one-column { columns: 1; -webkit-columns: 1; -moz-columns: 1; }
